@@ -2,6 +2,7 @@
 name = "instagram-scanner"
 version = "0.1.0"
 edition = "2021"
+description = "Scanner for instagram accounts to provide additional statistics that isn't available in the app"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
